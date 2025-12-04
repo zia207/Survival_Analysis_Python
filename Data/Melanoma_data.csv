@@ -1,0 +1,206 @@
+"time","status","event","invasion","ici","epicel","ulcer","thick","sex","age","logthick"
+10,2,"death.other.causes","level.1","2","present","present",6.76,"Male",76,1.91102289005487
+30,2,"death.other.causes","level.0","0","not present","not present",0.65,"Male",56,-0.430782916092454
+35,0,"censored","level.1","2","not present","not present",1.34,"Male",41,0.29266961396282
+99,2,"death.other.causes","level.0","2","not present","not present",2.9,"Female",71,1.06471073699243
+185,1,"death.malignant.melanoma","level.2","2","present","present",12.08,"Male",52,2.49155119250667
+204,1,"death.malignant.melanoma","level.2","2","not present","present",4.84,"Male",28,1.57691472072854
+210,1,"death.malignant.melanoma","level.2","2","present","present",5.16,"Male",77,1.64093657949347
+232,1,"death.malignant.melanoma","level.2","2","not present","present",12.88,"Male",49,2.55567572067621
+232,2,"death.other.causes","level.1","3","not present","present",3.22,"Female",60,1.16938135955632
+279,1,"death.malignant.melanoma","level.0","2","not present","present",7.41,"Female",68,2.002830439308
+295,1,"death.malignant.melanoma","level.1","1","not present","present",4.19,"Female",53,1.43270073393405
+355,2,"death.other.causes","level.0","0","not present","present",0.16,"Female",64,-1.83258146374831
+386,1,"death.malignant.melanoma","level.0","2","not present","present",3.87,"Female",68,1.35325450704169
+426,1,"death.malignant.melanoma","level.2","2","present","present",4.84,"Male",63,1.57691472072854
+469,1,"death.malignant.melanoma","level.1","3","not present","present",2.42,"Female",14,0.883767540168595
+493,2,"death.other.causes","level.2","2","present","present",12.56,"Male",72,2.53051716104005
+529,1,"death.malignant.melanoma","level.1","2","not present","present",5.8,"Male",46,1.75785791755237
+621,1,"death.malignant.melanoma","level.2","3","not present","present",7.06,"Male",72,1.95444505150515
+629,1,"death.malignant.melanoma","level.2","3","not present","present",5.48,"Male",95,1.70110510095992
+659,1,"death.malignant.melanoma","level.2","3","not present","present",7.73,"Male",54,2.04510886259933
+667,1,"death.malignant.melanoma","level.1","2","not present","present",13.85,"Female",89,2.62828523263335
+718,1,"death.malignant.melanoma","level.0","1","present","present",2.34,"Male",25,0.85015092936961
+752,1,"death.malignant.melanoma","level.1","2","not present","present",4.19,"Male",37,1.43270073393405
+779,1,"death.malignant.melanoma","level.1","2","not present","present",4.04,"Male",43,1.39624469197306
+793,1,"death.malignant.melanoma","level.1","2","not present","present",4.84,"Male",68,1.57691472072854
+817,1,"death.malignant.melanoma","level.0","2","present","not present",0.32,"Female",67,-1.13943428318836
+826,2,"death.other.causes","level.1","3","present","present",8.54,"Female",86,2.14476100780048
+833,1,"death.malignant.melanoma","level.1","1","not present","present",2.58,"Female",56,0.947789398933526
+858,1,"death.malignant.melanoma","level.1","1","not present","not present",3.56,"Female",16,1.26976054486394
+869,1,"death.malignant.melanoma","level.1","3","present","not present",3.54,"Female",42,1.26412672714568
+872,1,"death.malignant.melanoma","level.0","0","present","not present",0.97,"Female",65,-0.0304592074847086
+967,1,"death.malignant.melanoma","level.1","2","not present","present",4.83,"Male",52,1.57484646766448
+977,1,"death.malignant.melanoma","level.0","2","not present","present",1.62,"Male",58,0.482426149244293
+982,1,"death.malignant.melanoma","level.2","2","not present","present",6.44,"Female",60,1.86252854011626
+1041,1,"death.malignant.melanoma","level.2","2","present","not present",14.66,"Male",68,2.68512269645851
+1055,1,"death.malignant.melanoma","level.1","1","not present","present",2.58,"Female",75,0.947789398933526
+1062,1,"death.malignant.melanoma","level.1","3","not present","present",3.87,"Male",19,1.35325450704169
+1075,1,"death.malignant.melanoma","level.1","2","not present","present",3.54,"Male",66,1.26412672714568
+1156,1,"death.malignant.melanoma","level.1","2","not present","present",1.34,"Female",56,0.29266961396282
+1228,1,"death.malignant.melanoma","level.0","2","present","present",2.24,"Male",46,0.806475865866949
+1252,1,"death.malignant.melanoma","level.1","2","not present","present",3.87,"Female",58,1.35325450704169
+1271,1,"death.malignant.melanoma","level.1","1","not present","present",3.54,"Female",74,1.26412672714568
+1312,1,"death.malignant.melanoma","level.2","3","not present","present",17.42,"Female",65,2.85761897142436
+1427,2,"death.other.causes","level.0","2","present","not present",1.29,"Male",64,0.254642218373581
+1435,1,"death.malignant.melanoma","level.1","2","present","not present",3.22,"Male",27,1.16938135955632
+1499,0,"censored","level.0","1","present","not present",1.29,"Male",73,0.254642218373581
+1506,1,"death.malignant.melanoma","level.0","1","present","present",4.51,"Male",56,1.50629715351459
+1508,0,"censored","level.2","2","present","present",8.38,"Male",63,2.12584791449399
+1510,0,"censored","level.1","2","present","not present",1.94,"Female",69,0.662687973075237
+1512,0,"censored","level.0","2","present","not present",0.16,"Female",77,-1.83258146374831
+1516,1,"death.malignant.melanoma","level.0","2","present","present",2.58,"Male",80,0.947789398933526
+1525,2,"death.other.causes","level.1","2","present","present",1.29,"Female",76,0.254642218373581
+1542,0,"censored","level.0","3","present","not present",0.16,"Female",65,-1.83258146374831
+1548,1,"death.malignant.melanoma","level.1","1","not present","not present",1.62,"Female",61,0.482426149244293
+1557,0,"censored","level.0","1","present","not present",1.29,"Female",26,0.254642218373581
+1560,1,"death.malignant.melanoma","level.1","1","not present","not present",2.1,"Female",57,0.741937344729377
+1563,0,"censored","level.0","1","present","not present",0.32,"Female",45,-1.13943428318836
+1584,1,"death.malignant.melanoma","level.0","1","not present","not present",0.81,"Male",31,-0.210721031315653
+1605,0,"censored","level.1","2","not present","not present",1.13,"Female",36,0.122217632724249
+1621,1,"death.malignant.melanoma","level.1","2","not present","present",5.16,"Female",46,1.64093657949347
+1627,0,"censored","level.1","1","not present","not present",1.62,"Female",43,0.482426149244293
+1634,0,"censored","level.1","1","present","not present",1.37,"Female",68,0.314810739840034
+1641,0,"censored","level.0","1","not present","not present",0.24,"Male",57,-1.42711635564015
+1641,0,"censored","level.0","2","not present","not present",0.81,"Female",57,-0.210721031315653
+1648,0,"censored","level.0","2","not present","not present",1.29,"Female",55,0.254642218373581
+1652,0,"censored","level.1","1","not present","not present",1.29,"Female",58,0.254642218373581
+1654,0,"censored","level.0","2","present","not present",0.97,"Male",20,-0.0304592074847086
+1654,0,"censored","level.0","2","present","not present",1.13,"Female",67,0.122217632724249
+1667,1,"death.malignant.melanoma","level.2","2","not present","present",5.8,"Female",44,1.75785791755237
+1678,0,"censored","level.1","1","present","not present",1.29,"Female",59,0.254642218373581
+1685,0,"censored","level.0","2","not present","not present",0.48,"Female",32,-0.7339691750802
+1690,1,"death.malignant.melanoma","level.1","2","present","not present",1.62,"Male",83,0.482426149244293
+1710,0,"censored","level.1","2","not present","not present",2.26,"Female",55,0.815364813284194
+1710,0,"censored","level.0","2","not present","not present",0.58,"Male",15,-0.544727175441672
+1726,1,"death.malignant.melanoma","level.0","3","not present","present",0.97,"Female",58,-0.0304592074847086
+1745,0,"censored","level.1","3","present","present",2.58,"Female",47,0.947789398933526
+1762,0,"censored","level.0","1","not present","not present",0.81,"Female",54,-0.210721031315653
+1779,0,"censored","level.1","2","present","present",3.54,"Male",55,1.26412672714568
+1787,0,"censored","level.0","2","not present","not present",0.97,"Male",38,-0.0304592074847086
+1787,0,"censored","level.0","0","not present","present",1.78,"Female",41,0.576613364303994
+1793,0,"censored","level.1","1","not present","not present",1.94,"Female",56,0.662687973075237
+1804,0,"censored","level.1","2","present","not present",1.29,"Female",48,0.254642218373581
+1812,0,"censored","level.1","2","not present","present",3.22,"Male",44,1.16938135955632
+1836,0,"censored","level.1","1","present","not present",1.53,"Female",70,0.425267735404344
+1839,0,"censored","level.0","1","present","not present",1.29,"Female",40,0.254642218373581
+1839,0,"censored","level.0","1","present","present",1.62,"Male",53,0.482426149244293
+1854,0,"censored","level.1","0","present","present",1.62,"Female",65,0.482426149244293
+1856,0,"censored","level.0","0","not present","not present",0.32,"Male",54,-1.13943428318836
+1860,2,"death.other.causes","level.1","1","present","present",4.84,"Male",71,1.57691472072854
+1864,0,"censored","level.0","1","not present","not present",1.29,"Female",49,0.254642218373581
+1899,0,"censored","level.0","1","present","not present",0.97,"Female",55,-0.0304592074847086
+1914,0,"censored","level.2","2","not present","not present",3.06,"Female",69,1.11841491596429
+1919,0,"censored","level.1","2","present","not present",3.54,"Male",83,1.26412672714568
+1920,0,"censored","level.0","2","not present","present",1.62,"Male",60,0.482426149244293
+1927,0,"censored","level.2","1","not present","present",2.58,"Male",40,0.947789398933526
+1933,1,"death.malignant.melanoma","level.2","2","not present","not present",1.94,"Female",77,0.662687973075237
+1942,0,"censored","level.0","1","present","not present",0.81,"Female",35,-0.210721031315653
+1955,0,"censored","level.2","1","not present","present",7.73,"Female",46,2.04510886259933
+1956,0,"censored","level.1","2","not present","not present",0.97,"Female",34,-0.0304592074847086
+1958,0,"censored","level.2","1","not present","not present",12.88,"Female",69,2.55567572067621
+1963,0,"censored","level.0","1","not present","not present",2.58,"Female",60,0.947789398933526
+1970,0,"censored","level.1","2","present","present",4.09,"Male",84,1.40854497005471
+2005,0,"censored","level.0","3","not present","not present",0.64,"Female",66,-0.446287102628419
+2007,0,"censored","level.1","1","present","not present",0.97,"Male",56,-0.0304592074847086
+2011,0,"censored","level.1","2","not present","present",3.22,"Female",75,1.16938135955632
+2024,0,"censored","level.1","1","not present","not present",1.62,"Female",36,0.482426149244293
+2028,0,"censored","level.0","1","not present","present",3.87,"Male",52,1.35325450704169
+2038,0,"censored","level.0","2","present","present",0.32,"Female",58,-1.13943428318836
+2056,0,"censored","level.0","1","present","not present",0.32,"Female",39,-1.13943428318836
+2059,0,"censored","level.1","1","present","present",3.22,"Male",68,1.16938135955632
+2061,1,"death.malignant.melanoma","level.1","1","present","not present",2.26,"Male",71,0.815364813284194
+2062,1,"death.malignant.melanoma","level.1","3","not present","not present",3.06,"Female",52,1.11841491596429
+2075,0,"censored","level.0","0","not present","present",2.58,"Male",55,0.947789398933526
+2085,2,"death.other.causes","level.0","1","present","not present",0.65,"Female",66,-0.430782916092454
+2102,0,"censored","level.0","2","not present","not present",1.13,"Male",35,0.122217632724249
+2103,1,"death.malignant.melanoma","level.0","1","not present","not present",0.81,"Male",44,-0.210721031315653
+2104,0,"censored","level.0","2","not present","not present",0.97,"Female",72,-0.0304592074847086
+2108,1,"death.malignant.melanoma","level.0","2","not present","present",1.76,"Female",58,0.56531380905006
+2112,0,"censored","level.1","0","present","present",1.94,"Female",54,0.662687973075237
+2150,0,"censored","level.0","2","not present","not present",0.65,"Female",33,-0.430782916092454
+2156,0,"censored","level.0","3","present","not present",0.97,"Female",45,-0.0304592074847086
+2165,0,"censored","level.1","2","not present","not present",5.64,"Male",62,1.72988406550997
+2209,0,"censored","level.2","2","present","not present",9.66,"Female",72,2.26799364822443
+2227,0,"censored","level.0","2","present","not present",0.1,"Female",51,-2.30258509299405
+2227,0,"censored","level.1","2","not present","present",5.48,"Male",77,1.70110510095992
+2256,1,"death.malignant.melanoma","level.1","2","not present","present",2.26,"Female",43,0.815364813284194
+2264,0,"censored","level.2","2","present","present",4.83,"Female",65,1.57484646766448
+2339,0,"censored","level.1","2","present","not present",0.97,"Female",63,-0.0304592074847086
+2361,0,"censored","level.0","2","present","not present",0.97,"Male",60,-0.0304592074847086
+2387,0,"censored","level.1","1","not present","present",5.16,"Female",50,1.64093657949347
+2388,1,"death.malignant.melanoma","level.0","1","not present","not present",0.81,"Male",40,-0.210721031315653
+2403,0,"censored","level.2","2","not present","present",2.9,"Female",67,1.06471073699243
+2426,0,"censored","level.1","2","not present","not present",3.87,"Female",69,1.35325450704169
+2426,0,"censored","level.1","2","present","present",1.94,"Female",74,0.662687973075237
+2431,0,"censored","level.0","2","present","not present",0.16,"Female",49,-1.83258146374831
+2460,0,"censored","level.0","2","present","not present",0.64,"Female",47,-0.446287102628419
+2467,1,"death.malignant.melanoma","level.0","2","not present","present",2.26,"Female",42,0.815364813284194
+2492,0,"censored","level.0","3","not present","not present",1.45,"Female",54,0.371563556432483
+2493,0,"censored","level.1","2","not present","present",4.82,"Male",72,1.57277392806251
+2521,0,"censored","level.0","1","not present","present",1.29,"Female",45,0.254642218373581
+2542,0,"censored","level.1","2","not present","present",7.89,"Male",67,2.06559613485778
+2559,0,"censored","level.0","0","not present","present",0.81,"Female",48,-0.210721031315653
+2565,1,"death.malignant.melanoma","level.1","1","not present","present",3.54,"Male",34,1.26412672714568
+2570,0,"censored","level.0","1","not present","not present",1.29,"Female",44,0.254642218373581
+2660,0,"censored","level.0","1","present","not present",0.64,"Female",31,-0.446287102628419
+2666,0,"censored","level.1","2","not present","present",3.22,"Female",42,1.16938135955632
+2676,0,"censored","level.0","2","present","present",1.45,"Female",24,0.371563556432483
+2738,0,"censored","level.0","2","present","not present",0.48,"Female",58,-0.7339691750802
+2782,1,"death.malignant.melanoma","level.1","2","present","not present",1.94,"Male",78,0.662687973075237
+2787,0,"censored","level.0","1","present","not present",0.16,"Male",62,-1.83258146374831
+2984,0,"censored","level.0","1","present","not present",0.16,"Male",70,-1.83258146374831
+3032,0,"censored","level.0","2","not present","not present",1.29,"Female",35,0.254642218373581
+3040,0,"censored","level.0","2","not present","not present",1.94,"Female",61,0.662687973075237
+3042,1,"death.malignant.melanoma","level.1","2","not present","present",3.54,"Female",54,1.26412672714568
+3067,0,"censored","level.0","2","present","not present",0.81,"Female",29,-0.210721031315653
+3079,0,"censored","level.0","0","not present","not present",0.65,"Male",64,-0.430782916092454
+3101,0,"censored","level.2","1","present","not present",7.09,"Male",47,1.95868534054404
+3144,0,"censored","level.0","2","present","not present",0.16,"Male",62,-1.83258146374831
+3152,0,"censored","level.0","2","not present","not present",1.62,"Female",32,0.482426149244293
+3154,2,"death.other.causes","level.0","2","not present","not present",1.62,"Male",49,0.482426149244293
+3180,0,"censored","level.0","1","not present","not present",1.29,"Female",25,0.254642218373581
+3182,2,"death.other.causes","level.0","2","present","not present",6.12,"Male",49,1.81156209652423
+3185,0,"censored","level.0","1","not present","not present",0.48,"Female",64,-0.7339691750802
+3199,0,"censored","level.0","2","present","not present",0.64,"Female",36,-0.446287102628419
+3228,0,"censored","level.1","1","not present","present",3.22,"Female",58,1.16938135955632
+3229,0,"censored","level.0","1","not present","not present",1.94,"Female",37,0.662687973075237
+3278,0,"censored","level.1","3","present","not present",2.58,"Male",54,0.947789398933526
+3297,0,"censored","level.1","1","not present","present",2.58,"Female",61,0.947789398933526
+3328,0,"censored","level.0","2","present","not present",0.81,"Male",31,-0.210721031315653
+3330,0,"censored","level.0","2","present","present",0.81,"Male",61,-0.210721031315653
+3338,1,"death.malignant.melanoma","level.1","1","present","present",3.22,"Female",60,1.16938135955632
+3383,0,"censored","level.0","3","present","not present",0.32,"Female",43,-1.13943428318836
+3384,0,"censored","level.1","2","present","present",3.22,"Female",68,1.16938135955632
+3385,0,"censored","level.1","2","not present","not present",2.74,"Female",4,1.00795792039998
+3388,0,"censored","level.0","2","not present","present",4.84,"Male",60,1.57691472072854
+3402,0,"censored","level.0","0","present","not present",1.62,"Male",50,0.482426149244293
+3441,0,"censored","level.0","3","present","not present",0.65,"Female",20,-0.430782916092454
+3458,2,"death.other.causes","level.0","2","present","not present",1.45,"Female",54,0.371563556432483
+3459,0,"censored","level.0","1","not present","not present",0.65,"Female",29,-0.430782916092454
+3459,0,"censored","level.0","0","present","present",1.29,"Male",56,0.254642218373581
+3476,0,"censored","level.0","0","not present","not present",1.62,"Female",60,0.482426149244293
+3523,0,"censored","level.2","2","not present","not present",3.54,"Female",46,1.26412672714568
+3667,0,"censored","level.1","2","not present","not present",3.22,"Female",42,1.16938135955632
+3695,0,"censored","level.0","0","present","not present",0.65,"Female",34,-0.430782916092454
+3695,0,"censored","level.0","2","present","not present",1.03,"Female",56,0.0295588022415444
+3776,0,"censored","level.2","3","not present","present",7.09,"Male",12,1.95868534054404
+3776,0,"censored","level.1","2","not present","present",1.29,"Female",21,0.254642218373581
+3830,0,"censored","level.0","0","not present","not present",0.65,"Male",46,-0.430782916092454
+3856,0,"censored","level.0","2","not present","not present",1.78,"Female",49,0.576613364303994
+3872,0,"censored","level.2","0","not present","present",12.24,"Female",35,2.50470927708418
+3909,0,"censored","level.1","2","not present","present",8.06,"Male",42,2.08691355651854
+3968,0,"censored","level.0","2","present","not present",0.81,"Female",47,-0.210721031315653
+4001,0,"censored","level.1","2","present","not present",2.1,"Female",69,0.741937344729377
+4103,0,"censored","level.2","2","present","not present",3.87,"Female",52,1.35325450704169
+4119,0,"censored","level.0","2","present","not present",0.65,"Male",52,-0.430782916092454
+4124,0,"censored","level.0","2","not present","present",1.94,"Female",30,0.662687973075237
+4207,0,"censored","level.0","1","present","not present",0.65,"Male",22,-0.430782916092454
+4310,0,"censored","level.1","3","present","not present",2.1,"Male",55,0.741937344729377
+4390,0,"censored","level.0","1","not present","present",1.94,"Female",26,0.662687973075237
+4479,0,"censored","level.0","0","not present","present",1.13,"Female",19,0.122217632724249
+4492,0,"censored","level.2","3","present","present",7.06,"Male",29,1.95444505150515
+4668,0,"censored","level.2","2","present","not present",6.12,"Female",40,1.81156209652423
+4688,0,"censored","level.0","1","present","not present",0.48,"Female",42,-0.7339691750802
+4926,0,"censored","level.0","1","not present","not present",2.26,"Female",50,0.815364813284194
+5565,0,"censored","level.1","2","not present","not present",2.9,"Female",41,1.06471073699243

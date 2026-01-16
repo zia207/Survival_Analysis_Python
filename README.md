@@ -51,18 +51,18 @@ Survival_Analysis_Python/
 ├── Data/                              # Datasets (referenced from GitHub)
 │   └── lung_dataset.csv
 │
-├── 02-07-01-*.qmd                     # Non-Parametric Methods
+├── Non-Parametric Methods                  
 │   ├── 00-introduction
 │   ├── 01-kaplan-meier
 │   └── 02-nelson-aalen
 │
-├── 02-07-02-*.qmd                     # Semi-Parametric Methods
+├── Semi-Parametric Methods                   
 │   ├── 00-introduction
 │   ├── 01-cox-regression
 │   ├── 02-time-dependent-covariates
 │   └── 03-stratified-cox-model
 │
-├── 02-07-03-*.qmd                     # Parametric Methods
+├── Parametric Methods                     
 │   ├── 00-introduction
 │   ├── 01-exponential-model
 │   ├── 02-weibull-model
@@ -71,21 +71,21 @@ Survival_Analysis_Python/
 │   ├── 05-generalized-gamma-model
 │   └── 06-gompertz-model
 │
-├── 02-07-04-*.qmd                     # Recurrent Event Models
+├── Recurrent Event Models                     
 │   ├── 00-introduction
 │   ├── 01-andersen-gill-model
 │   ├── 02-prentice-williams-peterson-model
 │   ├── 03-frailty-models
 │   └── 04-marginal-models
 │
-├── 02-07-05-*.qmd                     # Risk Regression
+├── Risk Regression                  
 │   ├── 00-introduction
 │   ├── 01-cause-specific-hazard-regression
 │   ├── 02-subdistribution-hazard-regression
 │   ├── 03-absolute-risk-regression
 │   └── 04-aalen-model
 │
-├── 02-07-06-*.qmd                     # Joint Modeling
+├── Joint Modeling                    
 │   ├── 00-introduction
 │   ├── 01-standard-joint-model
 │   ├── 02-baseline-hazard-function
@@ -95,7 +95,7 @@ Survival_Analysis_Python/
 │   ├── 06-joint-frailty-modeling
 │   └── 07-PyMC-joint-modeling
 │
-└── 02-07-07-*.qmd                     # Machine Learning Methods
+└── Machine Learning Methods                     
     ├── 00-introduction
     ├── 01-cart
     ├── 02-random-survival-forest
@@ -113,7 +113,7 @@ Survival_Analysis_Python/
 
 ## 📚 Content Sections
 
-### 1. Introduction to Survival Analysis (`index.qmd`)
+### 1. Introduction to Survival Analysis 
 
 Comprehensive overview covering:
 - Key concepts and terminology
@@ -122,7 +122,7 @@ Comprehensive overview covering:
 - Overview of all methods covered in the project
 - Applications across different fields
 
-### 2. Non-Parametric Methods (`02-07-01-*.qmd`)
+### 2. Non-Parametric Methods 
 
 Methods that make no assumptions about the underlying distribution:
 - **Kaplan-Meier Estimator**: Most widely used method for estimating survival functions
@@ -149,7 +149,7 @@ Methods that assume a specific form for covariate relationships but not survival
 - Proportional hazards assumption checking
 - Baseline survival function estimation
 
-### 4. Parametric Methods (`02-07-03-*.qmd`)
+### 4. Parametric Methods 
 
 Methods that assume specific distributions for survival times:
 - **Exponential Model**: Constant hazard rate
@@ -165,20 +165,20 @@ Methods that assume specific distributions for survival times:
 - Model comparison and selection
 - Goodness-of-fit assessments
 
-### 5. Recurrent Event Models (`02-07-04-*.qmd`)
+### 5. Recurrent Event Models 
 
 Models for multiple events occurring over time:
 - **Andersen-Gill (AG) Model**: Extended Cox model for multiple events
 - **Prentice-Williams-Peterson (PWP) Models**: Conditional models for ordered events
 - **Frailty Models**: Accounting for unobserved heterogeneity
-- **Marginal Models**: Treating each event as separate observation
+- **Marginal Models**: Treating each event as a separate observation
 
 **Key Features:**
 - Handling correlated events
 - Gap time vs. total time approaches
 - Random effects for patient-level clustering
 
-### 6. Risk Regression (`02-07-05-*.qmd`)
+### 6. Risk Regression 
 
 Advanced regression methods for competing risks:
 - **Cause-Specific Hazard Regression**: Modeling hazards for specific event types
@@ -191,7 +191,7 @@ Advanced regression methods for competing risks:
 - Cumulative incidence functions
 - Time-varying covariate effects
 
-### 7. Joint Modeling (`02-07-06-*.qmd`)
+### 7. Joint Modeling 
 
 Models for longitudinal and survival data:
 - **Standard Joint Model**: Shared random effects approach

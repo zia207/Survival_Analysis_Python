@@ -274,22 +274,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn \
             lifelines scikit-survival pycox torch torchvision pymc
 ```
 
-### Quarto Setup
-
-1. **Install Quarto:**
-   - Visit: https://quarto.org/docs/get-started/
-   - Follow installation instructions for your operating system
-
-2. **Build the website:**
-```bash
-quarto render
-```
-
-3. **Preview the website:**
-```bash
-quarto preview
-```
-
 ## 📊 Datasets
 
 The project uses several datasets, including:
@@ -339,6 +323,7 @@ All datasets are available in the `Data/` directory or via GitHub links in the n
 - **scikit-learn**: Machine learning utilities
 - **torch**: PyTorch for deep learning models
 - **pymc**: Bayesian modeling and probabilistic programming
+- **Keras and Tensorflow**
 
 ## 📖 Topics Covered
 
@@ -391,15 +376,6 @@ kmf.fit(durations=df['time'], event_observed=df['event'])
 kmf.plot_survival_function()
 ```
 
-### Building the Full Website
-
-To build the complete website:
-
-```bash
-quarto render
-```
-
-The output will be in the `docs/` directory (as specified in `_quarto.yml`).
 
 ## 🤝 Contributing
 
@@ -490,7 +466,7 @@ If you use this resource in your research or teaching, please cite:
 - [ ] Add interactive visualizations
 - [ ] Expand competing risks examples
 - [ ] Include more high-dimensional genomics examples
-- [ ] Add R comparison tutorials
+- [ ] Add R comparison tutorials (already done)
 - [ ] Create video tutorials
 - [ ] Develop accompanying exercises and quizzes
 
